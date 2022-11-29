@@ -1,0 +1,11 @@
+D:\Semester 7\Magang\MagangProject\Latihan04\bin\Debug\Latihan04.exe.config
+D:\Semester 7\Magang\MagangProject\Latihan04\bin\Debug\Latihan04.exe
+D:\Semester 7\Magang\MagangProject\Latihan04\bin\Debug\Latihan04.pdb
+D:\Semester 7\Magang\MagangProject\Latihan04\obj\Debug\Latihan04.csproj.AssemblyReference.cache
+D:\Semester 7\Magang\MagangProject\Latihan04\obj\Debug\Latihan04.csproj.SuggestedBindingRedirects.cache
+D:\Semester 7\Magang\MagangProject\Latihan04\obj\Debug\Latihan04.Form1.resources
+D:\Semester 7\Magang\MagangProject\Latihan04\obj\Debug\Latihan04.Properties.Resources.resources
+D:\Semester 7\Magang\MagangProject\Latihan04\obj\Debug\Latihan04.csproj.GenerateResource.cache
+D:\Semester 7\Magang\MagangProject\Latihan04\obj\Debug\Latihan04.csproj.CoreCompileInputs.cache
+D:\Semester 7\Magang\MagangProject\Latihan04\obj\Debug\Latihan04.exe
+D:\Semester 7\Magang\MagangProject\Latihan04\obj\Debug\Latihan04.pdb
